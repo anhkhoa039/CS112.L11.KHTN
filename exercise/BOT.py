@@ -1,7 +1,7 @@
 n =16
 l = [2,-4,5,-8,4,-1,-1,1,1,1,-2,2,4,-6,9,-4]
 
-# 1st solution
+# cách 1
 def f(n,l):
     s= 0
     for i in range(n):
@@ -21,3 +21,23 @@ s, p,q = bot (n,l)
 print (p,q,s)    
 
 #result: 5 15 12
+
+# cách 2
+
+def BOT():
+    n = int(input())
+    a = [int(x) for x in input().split(" ")]
+    maxsum = 0
+    sum = a[0]
+    star = 1
+    end = 1
+    for i in range(0, n):
+        sum += a[i]
+        if (sum < 0):
+            sum = 0
+            star = i + 2
+        if(maxsum <= sum):
+            maxsum = sum
+            end = i + 1
+    print(star, end, maxsum)
+BOT()
