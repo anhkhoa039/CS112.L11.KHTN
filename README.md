@@ -16,3 +16,12 @@
   - Tóm tắt tuần 3
   - H index
   - Watersupply
+## Tuần 4:
+  - Tóm tắt tuần 4
+  - Đổi mới
+  - Tái cấu trúc
+## Tuần 5:
+  - Tóm tăt tuần 5
+  - Khóa số
+  - Cyclick isomorphism
+  
