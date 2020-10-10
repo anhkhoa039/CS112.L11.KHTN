@@ -6,6 +6,6 @@
 
 # TUẦN 5:
   - Tóm tắt tuần 5
-  - Bài tập wecode:
-    Khóa số
-    Cyclick Isomorphism
+  - Bài tập wecode:  
+    Khóa số  
+    Cyclick Isomorphism  
