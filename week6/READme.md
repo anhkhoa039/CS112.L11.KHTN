@@ -7,6 +7,5 @@
 # TUẦN 6:
   - Tóm tắt tuần 6
   - Bài tập wecode:  
-  Địa Lan
-  
-  Mức độ giống nhau
+    Địa Lan
+    Mức độ giống nhau
