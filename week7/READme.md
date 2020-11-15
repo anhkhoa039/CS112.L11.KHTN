@@ -4,8 +4,8 @@
   - Nguyễn Anh Khoa - 18520923
   - Trần Thị Phương Thảo - 18521422
 
-# TUẦN 6:
+# TUẦN 7:
   - Tóm tắt tuần 7
   - Bài tập wecode:  
-    Địa Lan   
-    Mức độ giống nhau
+    Phân số     
+    Xâu con tương đương
