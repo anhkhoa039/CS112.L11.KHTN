@@ -5,7 +5,7 @@
   - Trần Thị Phương Thảo - 18521422
 
 # TUẦN 7:  
-  [] Tóm tắt tuần 7  
-  [x] Bài tập wecode:    
+  - Tóm tắt tuần 7  
+  - Bài tập wecode:    
     - Phân số     
     - Xâu con tương đương
