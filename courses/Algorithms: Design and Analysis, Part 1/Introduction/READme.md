@@ -21,3 +21,9 @@ Example:
 	page rank algorithm currently in use by  Google  
 - Provides novel “lens” on processes outside of computer science and technology   
 - Challenging (good for your brain)
+
+### Merge sort
+#### why study merge sort ? 
+- Good introoduce to dive & conquer
+- Motivates guiding principles for algorithm analysis
+- Analysis generalizes to "Master Method"
