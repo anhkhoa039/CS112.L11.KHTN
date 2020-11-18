@@ -3,7 +3,7 @@ https://courses.edx.org/
 # Algorithms: Design and Analysis, Part 1
 ---
 # Outline:
-- [x] Introduction
+- [x] [Introduction](https://github.com/anhkhoa039/CS112.L11.KHTN/tree/master/courses/Algorithms:%20Design%20and%20Analysis%2C%20Part%201/Introduction)
 - [ ] Asymptotic analysis
 - [ ] Divide & conquer algorithms
 - [ ] Homework 1
