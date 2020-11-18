@@ -20,4 +20,4 @@ Example:
 	query.  The most famous such algorithm is the  
 	page rank algorithm currently in use by  Google  
 - Provides novel “lens” on processes outside of computer science and technology   
-challenging
+- Challenging (good for your brain)
