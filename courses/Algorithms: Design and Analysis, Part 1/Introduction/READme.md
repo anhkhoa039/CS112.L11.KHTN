@@ -27,3 +27,10 @@ Example:
 - Good introoduce to dive & conquer
 - Motivates guiding principles for algorithm analysis
 - Analysis generalizes to "Master Method"
+
+
+#### Analysis:
+- Worst Case Time Complexity [ Big-O ]: **O(n*log n)  
+- Best Case Time Complexity [Big-omega]: **O(n*log n)  
+- Average Time Complexity [Big-theta]: **O(n*log n)  
+Space Complexity: O(n)  
