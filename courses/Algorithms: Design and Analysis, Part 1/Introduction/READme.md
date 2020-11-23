@@ -34,14 +34,16 @@ Example:
 #### Why the running time for merge sort is O(n*log n)  
 - As we have already learned in Binary Search that whenever we divide a number into half in every step, it can be represented using a logarithmic function, which is log n and the number of steps can be represented by log n + 1(at most)  
 - And to merge the subarrays, made by dividing the original array of n elements, a running time of O(n) will be required.  
-Hence the total time for mergeSort function will become n(log n + 1), which gives us a time complexity of **O(n*log n).**  
-- Worst Case Time Complexity [ Big-O ]: **O(n*log n)**  
-- Best Case Time Complexity [Big-omega]: **O(n*log n)**  
-- Average Time Complexity [Big-theta]: **O(n*log n)**  
+Hence the total time for mergeSort function will become n(log n + 1), which gives us a time complexity of **O(n*log n).**    
+---------------------------------------------------------  
+|- Worst Case Time Complexity [ Big-O ]: **O(n*log n)**  |  
+|- Best Case Time Complexity [Big-omega]: **O(n*log n)** |  
+|- Average Time Complexity [Big-theta]: **O(n*log n)**  |  
+----------------------------------------------------------  
 Space Complexity: **O(n)**  
-- Time complexity of Merge Sort is O(n*Log n) in all the 3 cases (worst, average and best) as merge sort always divides the array in two halves and takes linear time to merge two halves.  
-- It requires equal amount of additional space as the unsorted array. Hence its not at all recommended for searching large unsorted arrays.  
-- It is the best Sorting technique used for sorting Linked Lists  
+	- Time complexity of Merge Sort is O(n*Log n) in all the 3 cases (worst, average and best) as merge sort always divides the array in two halves and takes linear time to merge two halves.  
+	- It requires equal amount of additional space as the unsorted array. Hence its not at all recommended for searching large unsorted arrays.  
+	- It is the best Sorting technique used for sorting Linked Lists  
 ### Guiding Principles for Analysis of Algorithms  
 #1. Worst-case analysis  
 #2. Don't pay much attention to constants factors(constants depend on architecture/compiler/programer)  
