@@ -4,8 +4,8 @@
   - Nguyễn Anh Khoa - 18520923
   - Trần Thị Phương Thảo - 18521422
 
-# TUẦN 7:  
-  - Tóm tắt tuần 7  
+# TUẦN 8:       
+  - Tóm tắt tuần 8      
   - Bài tập wecode:    
     - Số nguyên mới       
     - Con đường gồm sứ    
