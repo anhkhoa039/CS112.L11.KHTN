@@ -7,5 +7,5 @@
 # TUẦN 7:  
   - Tóm tắt tuần 7  
   - Bài tập wecode:    
-    - Số nguyên mới          
-    - Con đường gốm sứ
+    - Phân số             
+    - Xâu con tương đương   
