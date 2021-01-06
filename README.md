@@ -17,4 +17,4 @@
 # 3. Bài tập hàng tuần
   - Thuyết minh
   - Mã nguồn
-# 4. Course 
+# 4. Course Algorithms: Design and Analysis part1.
