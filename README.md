@@ -14,7 +14,7 @@
   - Slide thuyết trình
   - Câu hỏi + đáp án
 # 2. Bài tập Greedy approach + lời giải.
-# 3. Bài tập hàng tuần
+# 3. [Bài tập hàng tuần](https://github.com/anhkhoa039/CS112.L11.KHTN/blob/master/B%C3%A0i%20t%E1%BA%ADp%20h%C3%A0ng%20tu%E1%BA%A7n.md)
   - Thuyết minh
   - Mã nguồn
-# 4. Course Algorithms: Design and Analysis part1.
+# 4. [Course Algorithms: Design and Analysis part1](https://github.com/anhkhoa039/CS112.L11.KHTN/tree/master/courses/Algorithms:%20Design%20and%20Analysis%2C%20Part%201).
