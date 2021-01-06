@@ -25,7 +25,7 @@
   [(H index + Watersupply)](https://github.com/anhkhoa039/CS112.L11.KHTN/blob/master/week3/w3_H_index_watersupply.ipynb)
   
 ## [Tuần 4](https://github.com/anhkhoa039/CS112.L11.KHTN/tree/master/week4):
-  - Tóm tắt tuần 4]()
+  - Tóm tắt tuần 4
   - [Đổi mới](https://github.com/anhkhoa039/CS112.L11.KHTN/blob/master/week4/Doimoi_Report.ipynb)
   - [Tái cấu trúc]()
 ## [Tuần 5](https://github.com/anhkhoa039/CS112.L11.KHTN/tree/master/week5):
@@ -47,5 +47,6 @@
   - Con đường gốm sứ
   [(Số nguyên mới + con đường gốm sứ)](https://github.com/anhkhoa039/CS112.L11.KHTN/blob/master/week8/Week8_Report.ipynb)
  ## [Tuần 9](https://github.com/anhkhoa039/CS112.L11.KHTN/tree/master/week9):
- - [Phần thưởng]() 
- - [Đèn led]()
+ - Phần thưởng 
+ - Đèn led
+([Phần thưởng + đèn led](https://github.com/anhkhoa039/CS112.L11.KHTN/blob/master/week9/Report_w9_phanthuong_denled.ipynb))
