@@ -1,5 +1,5 @@
-# CS112.L11.KHTN
-## Nhóm N010 phân tích và thiết kế thuật toán
+# CS112.L11.KHTN PHÂN TÍCH VÀ THIẾT KẾ THUẬT TOÁN
+## Nhóm 10
 ---
 |STT| Họ và tên         |MSSV       |Lớp       |Vai trò      |
 |:-:|:------------------|:---------:|:--------:|:-----------:|
