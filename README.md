@@ -1,5 +1,5 @@
 # CS112.L11.KHTN PHÂN TÍCH VÀ THIẾT KẾ THUẬT TOÁN
-![alt text](https://www.google.com/search?q=uit&rlz=1C1ONGR_enVN928VN928&sxsrf=ALeKk02YQof3gsiYQN0b5f98bUuPJkOkYA:1611542053547&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjTpJH9hbbuAhUVO3AKHfUnAd4Q_AUoAXoECAIQAw&biw=1536&bih=722#imgrc=FhY6kgh4AOklFM)
+![alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.uit.edu.vn%2F&psig=AOvVaw3Zx1rhWeyayDjG4MKO_Px0&ust=1611628456705000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJC5ivSFtu4CFQAAAAAdAAAAABAI)
 ## Nhóm 10
 ---
 |STT| Họ và tên         |MSSV       |Lớp       |Vai trò      |
